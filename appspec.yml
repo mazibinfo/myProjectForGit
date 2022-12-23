@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/myProjectForTestingGit 
+    destination: /var/www/html/myProjectForGit
 file_exists_behavior: OVERWRITE
 hooks: 
   AfterInstall:
